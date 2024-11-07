@@ -166,3 +166,42 @@ https://abcd1234.execute-api.us-east-1.amazonaws.com/?course=hpcsa
 <br>
 
 ### *In summary, this setup allows you to quickly implement serverless, cost-effective, and scalable HTTP APIs with minimal infrastructure management.*
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+
+
+----------------Screenshots---------------
+
+
+
+![Example Image](screenshots/6.png)
+
+<br>
+----------------------------------------------------------------------------------
+<br>
+
+![Example Image](screenshots/7.png)
+
+<br>
+----------------------------------------------------------------------------------
+<br>
+
+![Example Image](screenshots/8.png)
+
+<br>
+----------------------------------------------------------------------------------
+<br>
+
+![Example Image](screenshots/9.png)
+
+<br>
+<br>
